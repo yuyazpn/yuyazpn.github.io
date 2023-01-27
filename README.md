@@ -16,14 +16,14 @@ Clone
 ---
 You first need to clone this repo to your local directory to work with.
 
-After you are done with any code change
+Install npm
 ---
 Navigate to the clone directory in command line, then:
 `npm install`
 
 Test
 ---
-This will test the changes on your local build.
+After you are done with any code change, this will test the changes on your local build.
 `npm start`
 
 Push / Commit
