@@ -4,23 +4,27 @@ Calculator
 
 Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-
+This is a public tempelate demo I grabbed on github.
+For the purpose of getting familiar of github actions, please feel free to make changes on this repo.
 
 Try It
 ---
 
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+[http://10.16.9.56:3000/](http://10.16.9.56:3000/)
 
-
-
-Install
+Clone
 ---
+You first need to clone this repo to your local directory to work with.
 
+After you are done with any code change
+---
+Navigate to the clone directory in command line, then:
 `npm install`
 
-
-
-Usage
+Test
 ---
-
+This will test the changes on your local build.
 `npm start`
+
+Push / Commit
+---
